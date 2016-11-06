@@ -1,0 +1,26 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     4065 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+Platform assembly: C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\santh\test\FlappyBirdClone\Build_Windows\flappy_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4000x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.317601 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 339c -> priority: 1 
